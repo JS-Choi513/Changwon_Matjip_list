@@ -1,5 +1,5 @@
 <h1 align="center">
-    <br> Noslab 맛집 리스트 🍴 😋
+    <br> Noslab 맛집 리스트 🍴
 </h1>
 
 <p align="center">Powered by
