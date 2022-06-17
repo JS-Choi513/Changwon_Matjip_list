@@ -1,4 +1,13 @@
-# 개 요
+<h1 align="center">
+    <br> Noslab 맛집 리스트
+</h1>
+
+<p align="center">
+  <a href="https://noslab.github.io/">
+      <img src="https://img.shields.io/badge/-Noslab-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Noslab">
+  </a>  
+</p>
+
 ## Noslab 학생들이 만들어가는 맛집리스트 
 
 > Powered by [Noslab](https://noslab.github.io/).
