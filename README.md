@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://noslab.github.io/">
-      <img src="https://img.shields.io/badge/-googlescholar-4285F4?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Noslab">
+      <img src="https://img.shields.io/badge/-Noslab-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Noslab">
   </a>  
 </p>
 
