@@ -2,15 +2,13 @@
     <br> Noslab 맛집 리스트
 </h1>
 
-<p align="center">
-  <a href="https://noslab.github.io/">
+<p align="center">Powered by
+  <a href="https://noslab.github.io/">       
       <img src="https://img.shields.io/badge/-Noslab-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Noslab">
   </a>  
 </p>
 
 ## Noslab 학생들이 만들어가는 맛집리스트 
-
-> Powered by [Noslab](https://noslab.github.io/).
 
 ## 한식
 - [디미방](https://www.google.com/maps/place/%EB%94%94%EB%AF%B8%EB%B0%A9/data=!3m1!4b1!4m5!3m4!1s0x3568cc8442503549:0x7288232f9561e33c!8m2!3d35.2433716!4d128.6878116): 한정식
