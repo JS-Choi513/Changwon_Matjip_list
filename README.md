@@ -18,6 +18,7 @@
 ## 일식 🍣
 - [아라회관](https://www.google.com/search?q=%EC%95%84%EB%9D%BC%ED%9A%8C%EA%B4%80&oq=%EC%95%84%EB%9D%BC%ED%9A%8C%EA%B4%80&aqs=chrome..69i57j0i5i30.4879j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:9&tbm=lcl&rflfq=1&num=10&rldimm=15113548430140813833&lqi=CgzslYTrnbztmozqtIBaEyIN7JWE6528IO2ajOq0gCoCCAKSARBzdXNoaV9yZXN0YXVyYW50&phdesc=ynvKJkFD48M&ved=2ahUKEwivyvj1vLP4AhUzq1YBHTnPDB4QvS56BAgNEAE&sa=X&rlst=f#rlfi=hd:;si:15113548430140813833,l,CgzslYTrnbztmozqtIBaEyIN7JWE6528IO2ajOq0gCoCCAKSARBzdXNoaV9yZXN0YXVyYW50,y,ynvKJkFD48M;mv:[[35.2218963,128.6859317],[35.2196664,128.6820109]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1): 횟집
 - [금옥돈까스](https://www.google.com/maps/place/%EA%B8%88%EC%98%A5%EB%8F%88%EA%B9%8C%EC%8A%A4/data=!4m5!3m4!1s0x0:0x877953ecd4816324!8m2!3d35.2376077!4d128.6837132): 돈까스
+- [솔솥](https://www.google.co.kr/maps/dir//35.2388333,128.6840743?hl=ko): 솥밥(연어, 도미, 스테이크 등)
 ## 양식 🍕
 - [라루마까](https://www.google.com/maps/place/%EB%9D%BC%EB%A3%A8%EB%A7%88%EA%B9%8C/data=!4m5!3m4!1s0x0:0x5ff214d513e9397d!8m2!3d35.2296248!4d128.6883153): 파스타, 화덕피자
 - [도형민 식당](https://map.naver.com/v5/search/%EB%8F%84%ED%98%95%EB%AF%BC%EC%8B%9D%EB%8B%B9/place/1426802698?c=14326999.5707739,4194237.4562206,13,0,0,0,dh&placePath=%2Fhome%3Fentry=pll): 파스타, 서테이크 
