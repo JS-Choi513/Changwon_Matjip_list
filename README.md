@@ -22,6 +22,7 @@
 ## 양식 🍕
 - [라루마까](https://www.google.com/maps/place/%EB%9D%BC%EB%A3%A8%EB%A7%88%EA%B9%8C/data=!4m5!3m4!1s0x0:0x5ff214d513e9397d!8m2!3d35.2296248!4d128.6883153): 파스타, 화덕피자
 - [도형민 식당](https://map.naver.com/v5/search/%EB%8F%84%ED%98%95%EB%AF%BC%EC%8B%9D%EB%8B%B9/place/1426802698?c=14326999.5707739,4194237.4562206,13,0,0,0,dh&placePath=%2Fhome%3Fentry=pll): 파스타, 서테이크 
+- [박말순](https://www.google.co.kr/maps/place/%EB%B0%95%EB%A7%90%EC%88%9C/data=!3m1!4b1!4m5!3m4!1s0x356f336fc0de1b29:0xfb923aa90c4c2192!8m2!3d35.2630972!4d128.6226836?hl=ko): 파스타, 스테이크
 
 ## 카페 ☕
 - [어라운드 텐](https://www.google.com/search?q=%EC%96%B4%EB%9D%BC%EC%9A%B4%EB%93%9C%ED%85%90&client=ubuntu&hs=jPR&channel=fs&tbm=lcl&sxsrf=ALiCzsag2fUkRSfvb0PVZUKOTC0V7mQ8XQ%3A1655437032593&ei=6ParYtnnI8aOr7wP--GdsAU&oq=%EC%96%B4%EB%9D%BC%EC%9A%B4%EB%93%9C%ED%85%90&gs_l=psy-ab.3..35i39k1j38.191848.191848.0.192052.1.1.0.0.0.0.135.135.0j1.1.0....0...1c.4.64.psy-ab..0.1.135....0.6DY35qutNNU#rlfi=hd:;si:9114244692199618672,l,Cg_slrTrnbzsmrTrk5zthZBaFiIQ7Ja065287Jq065OcIO2FkCoCCAKSAQtjb2ZmZWVfc2hvcA,y,gSFEGN-q44s;mv:[[35.250621377319035,128.6851412883672],[35.25026142268097,128.68470051163277]]): 레트로 컨셉, 빈티지 소품 다수 보유
